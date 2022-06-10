@@ -1,0 +1,2 @@
+echo "163.172.250.16"
+# nslookup 42.fr | grep "Address" | tail -n 1 | awk '{print $2}'"

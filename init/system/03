@@ -1,0 +1,4 @@
+echo "File called hosts in /etc folder. You delete the existing hostname and replace it with new name.
+command 'cat /etc/hosts' shows the file."
+
+CORRECT ANSWER IS /etc/hostname

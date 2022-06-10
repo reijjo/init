@@ -1,0 +1,3 @@
+ssh taitomer@127.0.0.1 -p2222
+# This first: VM-> Settings-> Network-> Advanced-> Port Forwarding-> Host Port = 22 and Guest Port = 2222
+# ip addr | grep "inet" | head -n 1 | awk '{print $2}' 

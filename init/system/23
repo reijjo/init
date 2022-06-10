@@ -1,0 +1,2 @@
+echo "On ssh you connect: ssh YOURUSERNAME@IP.
+On graphic session you just put your login and password when asked."

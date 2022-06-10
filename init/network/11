@@ -1,0 +1,2 @@
+echo "The first one is my default gateway so the second one (nat) connects me to the outside world
+use traceroute who.int | grep 'nat' to see only that line."

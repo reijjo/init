@@ -1,0 +1,2 @@
+echo "You can find it in /etc/resolv.conf
+if you want to see what the file looks like use 'cat /etc/resolv.conf'"

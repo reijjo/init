@@ -1,0 +1,2 @@
+echo "Local DNS entries are located in file hosts in /etc folder
+use "cat /etc/hosts" to see what the file contains"

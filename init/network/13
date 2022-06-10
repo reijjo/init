@@ -1,0 +1,6 @@
+echo "Server:		10.51.1.253
+Address:	10.51.1.253#53
+
+6.4.13.10.in-addr.arpa	name = c3r4p6.hive.fi.
+"
+# nslookup 10.13.4.6

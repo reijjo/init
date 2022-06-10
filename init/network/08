@@ -1,0 +1,4 @@
+echo "First nslookup who.int and then I use whois + (IP address what I get from that nslookup command)
+And there you can find the right answer and it is: Cloudflarem Inc.
+And if we check who.int for example from hostingchecker.com we get the same answer.
+'whois 104.17.113.188 | grep "OrgName"' is the command for that"

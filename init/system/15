@@ -1,0 +1,2 @@
+sudo pkill -9 tail
+# kill -9 PID

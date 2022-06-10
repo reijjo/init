@@ -1,0 +1,2 @@
+getent passwd {1000..60000} | cut -d ":" -f 1
+# 'cat /etc/login.defs | grep "UID"' command shows min and max UID. Real users UID is 1000 or more.
